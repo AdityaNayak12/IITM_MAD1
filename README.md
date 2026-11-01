@@ -14,3 +14,9 @@ Repository containing coursework and lab assignments for Modern Application Deve
 - `app.py` - Single Python CLI script for student/course marks reporting and HTML generation
 - `data.csv` - Student marks dataset
 - `25f3005502.zip` - Packaged submission archive containing `app.py` (only)
+
+## Week 4: Flask Web Application Lab Assignment
+- `app.py` - Flask web application handling student and course marks queries
+- `templates/` - HTML5 templates (`index.html`, `student_details.html`, `course_details.html`, `error.html`)
+- `static/` - Static assets directory including generated `histogram.png`
+- `25f3005502.zip` - Packaged submission archive containing `app.py`, `templates/`, and `static/`
