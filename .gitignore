@@ -1,3 +1,8 @@
 .agents/
 .gemini/
 .DS_Store
+
+.venv
+*.pyc
+__pycache__/
+week_6/.venv
